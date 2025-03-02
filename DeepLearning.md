@@ -1,5 +1,5 @@
 layout: page
 title: "DeepLearning"
-permalink: /DeepLearning
+permalink: /about/DeepLearning
 
 DeepLearning is a subgroup of Machine learning. 
